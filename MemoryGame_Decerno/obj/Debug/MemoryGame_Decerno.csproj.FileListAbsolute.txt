@@ -1,0 +1,10 @@
+C:\Users\Namn\source\repos\MemoryGame_Decerno\bin\Debug\MemoryGame_Decerno.exe.config
+C:\Users\Namn\source\repos\MemoryGame_Decerno\bin\Debug\MemoryGame_Decerno.exe
+C:\Users\Namn\source\repos\MemoryGame_Decerno\bin\Debug\MemoryGame_Decerno.pdb
+C:\Users\Namn\source\repos\MemoryGame_Decerno\obj\Debug\MemoryGame_Decerno.csprojAssemblyReference.cache
+C:\Users\Namn\source\repos\MemoryGame_Decerno\obj\Debug\MemoryGame_Decerno.Properties.Resources.resources
+C:\Users\Namn\source\repos\MemoryGame_Decerno\obj\Debug\MemoryGame_Decerno.csproj.GenerateResource.cache
+C:\Users\Namn\source\repos\MemoryGame_Decerno\obj\Debug\MemoryGame_Decerno.csproj.CoreCompileInputs.cache
+C:\Users\Namn\source\repos\MemoryGame_Decerno\obj\Debug\MemoryGame_Decerno.exe
+C:\Users\Namn\source\repos\MemoryGame_Decerno\obj\Debug\MemoryGame_Decerno.pdb
+C:\Users\Namn\source\repos\MemoryGame_Decerno\obj\Debug\MemoryGame_Decerno.Form1.resources
